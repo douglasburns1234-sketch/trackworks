@@ -246,32 +246,7 @@ const MODELS = [
     designCost: 53.29,             // £ to buy the design file — 0 if free (Burnie222 sells this design)
     printHours: 142,                                 // ← REQUIRED  number, no quotes
     filamentG:  3000,                                // ← REQUIRED  grams, number, no quotes
-    desc: "Build yourself a 1/14th scale Hobbygrade Radiocontrolled Bulldozer.
-This project can be 100% 3d printed, or be mixed with lasercut Steel plates (recommended).
-
-See how the dozer performs here:
-https://youtu.be/kLrflPA8Vtk
-
-Watch the Youtube Buildseries of the 6way version here:
-https://www.youtube.com/playlist?list=PLdh4mhBIIM2J6UA8WWcllsyaE5UgWz8zl
-
-And you can see a video of this dozer built by Aloko:
-https://youtu.be/CfQyPHWkLlc
-
-Features of this Bulldozer:
--The Bulldozer is 100% electric. It uses electric actuators to simulate hydraulics, and it has a functional 6way blade, and functional ripper (optional when building)
--Heavy weight for heavy pushing. Final weight of the dozer is 9,5kg with steel plates and metal tracks.
--Steel Plated design, this design allows for use of metal plates in important places in the chassis, making this bulldozer extremely durable.
--Easy maintenance. The dozer was designed with easy maintenance in mind.
--Choose between two types of Chassis.
-One with a 6way blade. You can Rotate, Angle and lift\drop the blade in any direction, which makes this Dozer very effective on the site.
-And the other with a SU blade with normal pusharms outside the tracks, for heavy pushing power!
--81 page detailed buildmanuals for both versions. Even beginners will be able to build this dozer.
--3 different tracks to choose between. I have designed this dozer to be able to run with 3 different tracks, making it very versatile if parts are hard to find.
--5840-555 Drivemotors, extremely strong electric motors will provide all the power needed to push those big loads infront of the blade.
--Cooling fan in the front grille, this will cool down the drive motors and electronics inside the chassis.
--Ballbearings, every moving joint on these models has a ballbearing, meaning it will move more freely with less friction while making the parts stronger in the same process!
--Youtube Build series, a series of buildvideos to show how to build this model from scratch! This will certainly answer all your questions.",
+    desc: "Build yourself a 1/14th scale Hobbygrade Radiocontrolled Bulldozer. This project can be 100% 3d printed, or be mixed with lasercut Steel plates (recommended).",
     features: [
       "Powered blade lift, tilt and angle",
       "Metal pin crawler tracks, tool-less tensioning",
