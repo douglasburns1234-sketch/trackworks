@@ -125,6 +125,7 @@ const CATEGORIES = [
   { id: "excavator", name: "Excavators",  icon: "◨", desc: "Hydraulic-style excavators with functional booms and buckets." },
   { id: "skidsteer", name: "Skid steers", icon: "▣", desc: "Compact loaders with quick-attach tooling." },
   { id: "dump",      name: "Dump trucks", icon: "◫", desc: "Articulated and rigid haulers." },
+  { id: "cranes",    name: "Cranes",      icon: "◫", desc: "Large lifting vehicles; mobile or stationary" }
 ];
 
 
@@ -152,8 +153,8 @@ const DESIGNERS = {
   burnie222: {
     handle:     "Burnie222",
     fullName:   "Burnie",
-    platform:   "Thingiverse",
-    profileUrl: "https://www.thingiverse.com/burnie222/designs",
+    platform:   "Cults3D",
+    profileUrl: "https://cults3d.com/@burnie222",
     note:       "Prolific RC construction vehicle designer, known for highly detailed scale builds.",
   },
 
@@ -236,13 +237,13 @@ const MODELS = [
     category:   "dozer",                             // ← REQUIRED
     scale:      "1:14",                              // ← REQUIRED
     icon:       "◧",                                 // dozer=◧  excavator=◨  skidsteer=▣  dump=◫
-    image:      "d-cat-d6.svg",                                 // filename in images/ folder, e.g. "d-cat-d6.jpg" — leave "" to show the icon
+    image:      "d6.jpg",                                 // filename in images/ folder, e.g. "d-cat-d6.jpg" — leave "" to show the icon
     name:       "D6 Crawler Dozer",                  // ← REQUIRED  display name
     designer:   "burnie222",                         // ← REQUIRED  key from DESIGNERS above
     source:     "Thingiverse",                       // ← REQUIRED  platform name
     sourceUrl:  "https://www.thingiverse.com/thing:1234567", // ← REQUIRED  direct model link
     difficulty: "Advanced",                          // ← REQUIRED
-    designCost: 8.5,             // £ to buy the design file — 0 if free (Burnie222 sells this design)
+    designCost: 53.29,             // £ to buy the design file — 0 if free (Burnie222 sells this design)
     printHours: 142,                                 // ← REQUIRED  number, no quotes
     filamentG:  1820,                                // ← REQUIRED  grams, number, no quotes
     desc: "Full metal-track crawler dozer with a powered 6-way blade and twin-motor steering. One of the most comprehensive dozer designs available for 3D printing.",
