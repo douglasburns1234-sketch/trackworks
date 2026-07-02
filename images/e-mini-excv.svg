@@ -1,0 +1,22 @@
+<svg viewBox="0 0 480 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="320" fill="#2E302E"/>
+  <rect y="255" width="480" height="65" fill="#242624"/>
+  <!-- track -->
+  <rect x="150" y="222" width="180" height="36" rx="18" fill="#1B1D1B"/>
+  <g fill="#7a5c04">
+    <circle cx="175" cy="240" r="13"/><circle cx="210" cy="240" r="13"/>
+    <circle cx="245" cy="240" r="13"/><circle cx="280" cy="240" r="13"/>
+    <circle cx="305" cy="240" r="13"/>
+  </g>
+  <!-- base -->
+  <rect x="165" y="195" width="150" height="30" rx="4" fill="#5F5E5A"/>
+  <!-- cab -->
+  <rect x="175" y="150" width="75" height="50" rx="4" fill="#EAE6DB"/>
+  <rect x="184" y="158" width="58" height="26" rx="2" fill="#4C5852"/>
+  <!-- boom -->
+  <path d="M245 168 L315 128 L330 143 L262 182 Z" fill="#F4B400"/>
+  <!-- arm -->
+  <path d="M310 132 L360 165 L350 180 L300 150 Z" fill="#BA7517"/>
+  <!-- bucket -->
+  <path d="M352 163 L382 176 L372 202 L346 194 L340 174 Z" fill="#6E6F6A"/>
+</svg>

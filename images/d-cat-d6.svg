@@ -1,0 +1,28 @@
+<svg viewBox="0 0 480 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="320" fill="#2E302E"/>
+  <rect y="250" width="480" height="70" fill="#242624"/>
+  <!-- tread motif -->
+  <g fill="#F4B400" opacity="0.85">
+    <rect x="0" y="250" width="10" height="8" transform="skewX(-30)"/>
+  </g>
+  <!-- track -->
+  <rect x="70" y="220" width="300" height="40" rx="20" fill="#1B1D1B"/>
+  <g fill="#7a5c04">
+    <circle cx="95" cy="240" r="14"/><circle cx="135" cy="240" r="14"/>
+    <circle cx="175" cy="240" r="14"/><circle cx="215" cy="240" r="14"/>
+    <circle cx="255" cy="240" r="14"/><circle cx="295" cy="240" r="14"/>
+    <circle cx="335" cy="240" r="14"/>
+  </g>
+  <!-- body -->
+  <rect x="110" y="150" width="220" height="80" rx="6" fill="#A8A59C"/>
+  <!-- cab -->
+  <rect x="230" y="90" width="90" height="70" rx="4" fill="#EAE6DB"/>
+  <rect x="242" y="102" width="66" height="34" rx="2" fill="#4C5852"/>
+  <!-- exhaust -->
+  <rect x="215" y="70" width="14" height="30" fill="#6E6F6A"/>
+  <!-- blade arm -->
+  <rect x="60" y="170" width="60" height="14" fill="#6E6F6A"/>
+  <!-- blade -->
+  <path d="M20 140 L60 140 L70 235 L10 235 Z" fill="#F4B400"/>
+  <rect x="20" y="200" width="46" height="10" fill="#7a5c04"/>
+</svg>

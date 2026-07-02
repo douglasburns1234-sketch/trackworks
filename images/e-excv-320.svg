@@ -1,0 +1,22 @@
+<svg viewBox="0 0 480 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="320" fill="#2E302E"/>
+  <rect y="250" width="480" height="70" fill="#242624"/>
+  <!-- track -->
+  <rect x="130" y="215" width="220" height="42" rx="21" fill="#1B1D1B"/>
+  <g fill="#7a5c04">
+    <circle cx="158" cy="236" r="15"/><circle cx="200" cy="236" r="15"/>
+    <circle cx="242" cy="236" r="15"/><circle cx="284" cy="236" r="15"/>
+    <circle cx="322" cy="236" r="15"/>
+  </g>
+  <!-- undercarriage / turret base -->
+  <rect x="150" y="185" width="180" height="35" rx="4" fill="#5F5E5A"/>
+  <!-- cab -->
+  <rect x="160" y="130" width="90" height="60" rx="4" fill="#EAE6DB"/>
+  <rect x="170" y="140" width="70" height="30" rx="2" fill="#4C5852"/>
+  <!-- boom -->
+  <path d="M250 155 L340 100 L358 118 L278 172 Z" fill="#F4B400"/>
+  <!-- arm -->
+  <path d="M335 105 L400 150 L388 170 L322 128 Z" fill="#BA7517"/>
+  <!-- bucket -->
+  <path d="M392 148 L430 165 L418 200 L385 190 L378 165 Z" fill="#6E6F6A"/>
+</svg>

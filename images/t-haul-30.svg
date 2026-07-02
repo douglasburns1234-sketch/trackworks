@@ -1,0 +1,21 @@
+<svg viewBox="0 0 480 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="320" fill="#2E302E"/>
+  <rect y="255" width="480" height="65" fill="#242624"/>
+  <!-- wheels -->
+  <g fill="#1B1D1B">
+    <circle cx="130" cy="248" r="26"/><circle cx="200" cy="248" r="26"/>
+    <circle cx="320" cy="248" r="26"/><circle cx="390" cy="248" r="26"/>
+  </g>
+  <g fill="#7a5c04">
+    <circle cx="130" cy="248" r="11"/><circle cx="200" cy="248" r="11"/>
+    <circle cx="320" cy="248" r="11"/><circle cx="390" cy="248" r="11"/>
+  </g>
+  <!-- cab -->
+  <rect x="90" y="165" width="80" height="65" rx="6" fill="#EAE6DB"/>
+  <rect x="100" y="175" width="60" height="32" rx="2" fill="#4C5852"/>
+  <!-- articulation joint -->
+  <circle cx="222" cy="215" r="10" fill="#F4B400"/>
+  <!-- dump bed -->
+  <path d="M235 150 L410 150 L400 225 L245 225 Z" fill="#A8A59C"/>
+  <rect x="235" y="150" width="175" height="14" fill="#C1542C"/>
+</svg>

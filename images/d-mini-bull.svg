@@ -1,0 +1,20 @@
+<svg viewBox="0 0 480 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="320" fill="#2E302E"/>
+  <rect y="255" width="480" height="65" fill="#242624"/>
+  <!-- track -->
+  <rect x="140" y="225" width="200" height="34" rx="17" fill="#1B1D1B"/>
+  <g fill="#7a5c04">
+    <circle cx="165" cy="242" r="12"/><circle cx="200" cy="242" r="12"/>
+    <circle cx="235" cy="242" r="12"/><circle cx="270" cy="242" r="12"/>
+    <circle cx="305" cy="242" r="12"/>
+  </g>
+  <!-- body -->
+  <rect x="170" y="165" width="150" height="65" rx="6" fill="#A8A59C"/>
+  <!-- cab -->
+  <rect x="250" y="120" width="60" height="50" rx="4" fill="#EAE6DB"/>
+  <rect x="258" y="130" width="44" height="26" rx="2" fill="#4C5852"/>
+  <!-- blade arm -->
+  <rect x="120" y="185" width="55" height="10" fill="#6E6F6A"/>
+  <!-- blade -->
+  <path d="M90 155 L120 155 L128 225 L82 225 Z" fill="#F4B400"/>
+</svg>
